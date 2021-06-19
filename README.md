@@ -1,2 +1,2 @@
-# JSapp
+# appJS
 Created with CodeSandbox
